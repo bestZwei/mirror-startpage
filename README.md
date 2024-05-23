@@ -4,7 +4,7 @@
 # 为什么不镜像直接镜像谷歌（Google）？
 因为Google频繁检测流量，跳人机验证。
 # 免责声明
-No one may not be illegal to use, please respect the rules of duckduckgo company, this project is only for learning.
+No one may not be illegal to use, please respect the rules of startpage company, this project is only for learning.
 
 This project is for learning only. Illegal use of the consequences of their own, mainland China users please use Baidu, Bing and other search engines.
 
